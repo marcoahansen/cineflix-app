@@ -6,13 +6,13 @@
 
 body{
   font-family: sans-serif;
-  background-color: rgb(49, 49, 49);
+  background-color: rgb(17, 17, 17);
 }
 
-/* .app{
+.app{
   display: flex;
   flex-direction: column;
   width: 100%;
   align-items: center;
   justify-content: center;
-} */
+}

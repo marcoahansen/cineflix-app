@@ -16,6 +16,7 @@
 
 .meus-filmes ul{
     width: 720px;
+    max-width: 100%;
 }
 
 .meus-filmes ul li{
